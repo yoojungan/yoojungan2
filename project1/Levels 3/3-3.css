@@ -1,0 +1,59 @@
+.p1 {
+	padding: 100px;
+	border:10px solid black;
+	margin: 30px;
+	color: hotpink;
+}
+.y{
+	border:3px solid black;
+	top:10px;
+	right: 100px;
+	bottom: 100px;
+	position: absolute;
+	color: red;
+}
+.x{
+	position: relative;
+	height: 150px;
+	color: red;
+}
+.t{
+	border:3px solid black;
+	top:10px;
+	right: 100px;
+	bottom: 100px;
+	position: absolute;
+	color: red;
+}
+.u{
+	position: relative;
+	height: 150px;	
+	color: red;
+}
+.r{
+	border:3px solid black;
+	top:10px;
+	right: 100px;
+	bottom: 100px;
+	position: absolute;
+	color: red;
+}
+.i{
+	position: relative;
+	height: 150px;	
+	color: red;
+}
+.f{
+	border:3px solid black;
+	top:10px;
+	right: 100px;
+	bottom: 100px;
+	position: absolute;
+	color: red;
+}
+.d{
+	position: relative;
+	height: 150px;	
+	color: red;
+}
+}

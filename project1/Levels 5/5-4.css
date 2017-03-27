@@ -1,0 +1,10 @@
+.class1 {
+	background-color: yellow;
+	width: 600px;
+	height: 300px;
+	position: relative;
+}
+
+.class1 li {
+	float: right;
+}

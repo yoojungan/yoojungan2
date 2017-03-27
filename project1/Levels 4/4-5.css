@@ -1,0 +1,17 @@
+.g{
+	font-family: "helvetica";
+	color: rgb(152, 113, 83);
+	text-transform: uppercase;
+	letter-spacing: 20px;
+}
+.h{
+	font-style: italic;
+	color: rgb(30, 89, 21);
+	line-height: 30px;
+	text-align: center;
+
+}
+.d{
+	color: rgb(152, 113, 83);
+	letter-spacing: 30px;
+}

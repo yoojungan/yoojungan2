@@ -1,0 +1,29 @@
+.an{
+	font-family: "helvetica";
+	font-style: italic;
+	font-weight: bold;
+	color: brown;
+	letter-spacing: 10px;
+	text-align: right;
+	font-size: 30px;
+}
+.y{
+	font-size: 10px;
+	color: rgb(166, 139, 89);
+	text-transform: capitalize;
+}
+.u{
+	font-size: 10px;
+	color: rgb(143, 120, 77);
+	text-transform: capitalize;
+}
+.i{
+	font-size: 10px;
+	color: rgb(127, 106, 68);
+	text-transform: capitalize;
+}
+.o{
+	font-size: 10px;
+	color: rgb(92, 77, 49);
+	text-transform: capitalize;
+}

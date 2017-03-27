@@ -1,0 +1,14 @@
+.p1{
+	padding: 60px;
+	border:100px solid pink;
+	;
+	width:145px;
+	position: relative;
+	bottom: 50px;
+	margin: 2px
+}
+.dan{
+	height: 10em;
+    position: relative;
+
+}

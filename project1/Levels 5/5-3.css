@@ -1,0 +1,12 @@
+.class1 {
+	position: relative;
+
+}
+
+.class1 h2 {
+	position: absolute;
+	top: 0px;
+	right: 200px;
+	height: 200px;
+	width: 200px;
+}

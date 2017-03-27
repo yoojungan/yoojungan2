@@ -1,0 +1,10 @@
+.r{
+	padding: 300px;
+	border:1px solid red;;
+	margin: 6px;
+}
+.y{
+	position: relative;
+	height: 300px;	
+	float: right;
+}

@@ -1,0 +1,12 @@
+.k{
+	font-size: 50px;
+	text-transform: capitalize;
+}
+.list{
+	font-style: italic;
+	font-weight: bold;
+	font-size: 10px;
+	font-family: "Helvetica";
+	color: navy;
+	text-align: center;
+}

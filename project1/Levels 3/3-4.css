@@ -1,0 +1,20 @@
+.g{
+	padding: 80px;
+	border:1px solid #CDDC39;
+	margin: 5px;
+	color: green;
+	
+}
+.u{
+	border:3px solid gray;
+	top:10px;
+	right: 100px;
+	bottom: 100px;
+	position: absolute;
+	color: green;
+}
+.t{
+	position: relative;
+	height: 150px;	
+	float: right;
+}

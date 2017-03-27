@@ -1,0 +1,12 @@
+.class1 {
+	background-color: hotpink;
+	width: 500px;
+}
+
+.class1 h1 {
+	float: right;
+}
+
+.class1 h2 {
+	margin-left: 50px;
+}

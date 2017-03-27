@@ -1,0 +1,26 @@
+.a{
+	font-style: sans-serif;
+	font-size: 100px;
+	font-family: bold;
+	letter-spacing: 20px;
+	color: green;
+	text-align: center;
+
+
+}
+.b{
+	font-family: "times new roman"
+	font-weight: bold;
+	color: rgb(85, 206, 156);
+	line-height: 40px;
+	text-align: right;
+}
+.c{
+	font-family: "times new roman"
+	font-weight: bold;
+	color: green;
+		text-align: right;
+
+
+}
+}
